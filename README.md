@@ -1,11 +1,12 @@
 
-**..all the links are coming up as I'm going to properly parse those exported delicious OPML files**
+**Delicious links are coming up as I'm going to properly parse those exported OPML files**
 
+## [Links](links.md)
 ## [Twitter list](https://twitter.com/paveljurca/lists/tech)
+## [Linux](linux.md)
 ## [Windows](windows.md)
 ## [Perl](perl.md)
-## [Linux](linux.md)
-## [Web](web.md)
+<!--- ## [Web](web.md) -->
 ## [Other](other.md)
 
 #### @ NOTES
