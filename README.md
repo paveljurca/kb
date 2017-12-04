@@ -1,5 +1,5 @@
 
-**..coming up as I'm going to properly parse those exported delicious OPML files**
+**..all the links are coming up as I'm going to properly parse those exported delicious OPML files**
 
 ## [Twitter list](https://twitter.com/paveljurca/lists/tech)
 ## [Windows](windows.md)

@@ -5,11 +5,16 @@
 * <https://twitter.com/paveljurca/lists/perl>
 * <https://twitter.com/Ptolemarch/lists/perl/>
 
-## Links
+#### @
 
-..coming up
+What's Up #Perl? "It is robust, runs on almost any OS, is available by default [..] Fortune 500 companies use Perl to route, transform, expose, and manipulate extremely complex data at dizzying speeds"
 
-#### @NOTES
+<https://www.activestate.com/blog/2016/07/what%E2%80%99s-perl>
+
+<https://www.activestate.com/webinars/long-time-perl-hackers-view-perl-world-past-present-and-future>
+
+
+***
 
 My answers to Becoming a Web Developer Survey by @joshsimmons, <https://docs.google.com/a/oreilly.com/forms/d/1GqxmRTGNfaQ7Hw3y1eSFjbNqZ73bQJ2nUiNy6WJZ5wM/viewform>
 
