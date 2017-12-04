@@ -13,6 +13,9 @@ What's Up #Perl? "It is robust, runs on almost any OS, is available by default [
 
 <https://www.activestate.com/webinars/long-time-perl-hackers-view-perl-world-past-present-and-future>
 
+***
+
+<https://github.com/paveljurca/geekuni>
 
 ***
 
@@ -97,22 +100,22 @@ People start with PHP or Ruby not because it's better — it's just what someone
 
 #### use Perl;
 
-* <booking.com>
-* <duckduckgo.com>
-* <bugzilla.org>
-* <bbc>
-* <goodata>
-* <bioperl>
-* <craigslist>
-* <imdb>
-* <slashdot>
-* <livejournal>
-* <buzzfeed.com>
+* booking.com
+* duckduckgo.com
+* bugzilla.org
+* bbc
+* goodata
+* bioperl
+* craigslist
+* imdb
+* slashdot
+* livejournal
+* buzzfeed.com
 * <https://github.com/major/MySQLTuner-perl>
-* <cPanel>
-* <openfoodfacts.org>
-* <ipcalc>
-* <crowdtilt https://web.archive.org/web/20120914031745/http://dsog.info/blog/Perl/Hacking/Technology/2012/08/31/why-did-i-choose-perl-for-crowdtilt/?>
+* cPanel
+* openfoodfacts.org
+* ipcalc
+* <https://web.archive.org/web/20120914031745/http://dsog.info/blog/Perl/Hacking/Technology/2012/08/31/why-did-i-choose-perl-for-crowdtilt/?>
 
 Perl is all over the web, just look closer.
 
@@ -184,32 +187,37 @@ where you get that notion of popularity of any language.
 We should ask what for should Perl be used for and is not?
 Because you're sure not gonna use it for desktop/mobile apps nor drivers.
 
-So it's the web. That's the place from where you'll get new people.
-Using one word: it should be "fresh".
-That it's unpleasant, high barriers of knowledge, websites with 10+ year old design.
-For them computer means mainly the internet.
-So they come to languages through web.
+So it's the web. That's the plce from where you'll get new people.
+
+..high barriers of knowledge, websites with 10+ year old design.
+
+..to them computer means mainly the internet.
+So they come to computer languages on web.
+
 The first what they see (and everyone tells them) is the holy trinity PHP+MySQL+phpMyAdmin.
+
 It's a habit more than deep understanding of why.
 I mean, no offense but they should know about Perl too.
 And Perl should be concenrated in this.
 Having one website with all the solutions for the web
-- frameworks, modules, hosting, %ENV whatsoever.
-Sending a clear message as a place where all the people cooperate.
 
-Doing it in Perl is a real fun!
+**..frameworks, modules, hosting, %ENV whatsoever.**
+
+Sending a clear message that Perl is a place where all the people cooperate.
+
 That is the message: "Have fun."
 
-But it needs to be communicated that way. Clearly.
-"For web and for quick-and-dirty tasks."
+But it needs to be told that way. Clearly.
 
-So Perl should be promoted for 2 points:
-a) system tasks, data munging
-b) web apps, web scrapping, API
+Perl for the web and for quick-and-dirty tasks.
 
->> I mean: Perl on the web and in your shell.
+**So Perl should be promoted for 2 points:**
 
-mojo: convos, sharifulin, ...
+* a) system tasks, data munging
+* b) web apps, web scrapping, API
+
+
+**mojo: convos, sharifulin, ...**
 
 Nobody can spend hours and hours of reading Perl docs,
 perlmonks, mail archives, whatever to find out what is this
