@@ -1,3 +1,5 @@
+control /name Microsoft.DefaultPrograms
+
 explorer.exe shell:recyclebinfolder
 
 getmac
