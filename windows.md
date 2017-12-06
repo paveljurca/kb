@@ -1,3 +1,7 @@
+explorer.exe shell:recyclebinfolder
+
+getmac
+
 netstat /displaydns
 
 mctadmin.exe - local package; mistni nastaveni; jazyk apod.
@@ -31,6 +35,8 @@ systeminfo
 regedit
 
 gpupdate
+
+gpresult
 
 nslookup
 
