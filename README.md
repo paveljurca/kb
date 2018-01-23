@@ -3,6 +3,7 @@
 
 ## [Links](links.md)
 ## [Twitter list](https://twitter.com/paveljurca/lists/tech)
+## [Bash](bash.md)
 ## [Linux](linux.md)
 ## [Learning](https://github.com/paveljurca/learning)
 ## [Windows](windows.md)
